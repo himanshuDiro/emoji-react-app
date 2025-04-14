@@ -1,4 +1,3 @@
-
 import React from 'react';
 import {
   Accordion,
@@ -245,7 +244,7 @@ function App() {
                   </tr>
                   <tr className="border-b">
                     <td className="py-2">onClick</td>
-                    <td className="py-2 text-gray-600">() => void</td>
+                    <td className="py-2 text-gray-600">() =&gt; void</td>
                     <td className="py-2">Callback function when the option is clicked</td>
                   </tr>
                   <tr className="border-b">
@@ -275,7 +274,7 @@ function App() {
                   </tr>
                   <tr className="border-b">
                     <td className="py-2">onSelection</td>
-                    <td className="py-2 text-gray-600">(value: string) => void</td>
+                    <td className="py-2 text-gray-600">(value: string) =&gt; void</td>
                     <td className="py-2">undefined</td>
                     <td className="py-2">Callback when user submits a selection</td>
                   </tr>
