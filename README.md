@@ -2,7 +2,7 @@
 
 ## Project info
 
-
+**Live Demo:** [Emoji Scale React App](https://emoji-react-app-kmo1-2luyk3woh-himanshus-projects-6a107e88.vercel.app)
 
 ## How can I edit this code?
 
